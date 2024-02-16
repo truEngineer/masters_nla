@@ -1,2 +1,1 @@
-# masters_nla
-NLA course in AI masters
+# AI Masters Numerical Linear Algebra
